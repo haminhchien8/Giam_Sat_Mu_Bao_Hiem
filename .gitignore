@@ -1,0 +1,41 @@
+# Python cache & temp
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.tmp
+*.log
+
+# 🧪 Environment
+venv/
+.env
+.env.*
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Streamlit cache (nếu chạy nhiều lần)
+
+# Test Reports
+reports/
+output(1)
+**/BaoCaoDATN/
+test_images
+output(1).zip
+weights/helmet*
+weights/yolo11nbest*
+weights/yolo4v*
+weights/yolo4v*
+
+zalo_profile
+
